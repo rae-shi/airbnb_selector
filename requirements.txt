@@ -1,0 +1,8 @@
+pymongo==4.6.1
+python-dotenv==1.0.0
+pandas==2.2.0
+openai==1.12.0
+numpy==1.26.4
+tiktoken==0.6.0  # For token counting
+tenacity==8.2.3  # For retry logic
+python-dateutil==2.9.0 
